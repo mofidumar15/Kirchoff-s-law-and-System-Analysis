@@ -1,7 +1,7 @@
 # Kirchoff-s-law-and-System-Analysis
 
 ## 📌 Overview
-On Day 04, the focus shifts from basic calculations to **Systematic Circuit Analysis**. This project implements **Kirchhoff’s Current Law (KCL)** and **Kirchhoff’s Voltage Law (KVL)** using Python to automate the conservation of charge and energy checks in a circuit.
+ This project implements **Kirchhoff’s Current Law (KCL)** and **Kirchhoff’s Voltage Law (KVL)** using Python to automate the conservation of charge and energy checks in a circuit.
 
 ## 🛠️ Features
 - **Dynamic Branching:** Handles multiple parallel branches without hard-coded variables.
