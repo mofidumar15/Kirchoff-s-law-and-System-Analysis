@@ -45,3 +45,7 @@ The program follows this execution logic:
 
 ## 🛠️ Performance Metrics
 By using `NumPy` for the current arrays, the memory overhead is minimized. This allows the logic to be exported into larger simulations (like Monte Carlo analysis for circuit reliability) in future steps of this 30-day challenge.
+
+### Output
+<img width="747" height="833" alt="Screenshot 2026-03-30 002130" src="https://github.com/user-attachments/assets/803758f0-628a-4765-ab6b-4d189b73a72f" />
+
